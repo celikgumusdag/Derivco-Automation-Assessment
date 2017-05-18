@@ -100,7 +100,7 @@ NuGet Packages
 
 In this project there are only use 3 packages: Selenium, Specflow,NUnit
 
-```csharp
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
   <package id="NUnit" version="3.6.1" targetFramework="net45" />
