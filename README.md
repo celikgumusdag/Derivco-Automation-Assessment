@@ -43,6 +43,8 @@ This include helping classes for the automation such as Base.cs and Actions.cs
 
 In Base.cs, certain methods to interaction with current browsers as: Opening Page, Closing Page, Wait, Finding Element in Page, Click Element in Page, Highlight Element in Page, Getting Text of Element in Page, Getting Value of Element in Page, Setting Value of Element in Page, Clearing Value of Element in Page.
 
+These methods are derive from Selenium Framework and uses functionalities of them.
+
 In Actions.cs, there are several methods which include specifical activities of given assessment as: Getting Current Balance, Setting Current Balance,  Setting Test Data, Getting the All Numbers which are show in page after spinning.
 
 
