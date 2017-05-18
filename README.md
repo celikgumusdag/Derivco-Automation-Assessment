@@ -20,6 +20,7 @@ Project Structure
 ------------
 Under the solution "Derivco-Automation-Assesment" there are 5 types of packages they are:
 
+![alt text](http://3.1m.yt/6Fsqp7q.png)
 
 #### 1) Utilities
 
