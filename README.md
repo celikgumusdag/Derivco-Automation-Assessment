@@ -36,6 +36,11 @@ This settings are Browser type and options about the browser.
 
 Also browser type is generic which can change from App.config file with "browser" attribute.
 
+For example, CI Tool (such as Jenkins) can change this attribute as value="firefox" and create parallel executions with different browsers: 
+```
+<!-- Choose Expected Browser -->
+    <add key="browser" value="chrome" />
+```
 
 #### 2) Helpers
 
@@ -45,7 +50,8 @@ In Base.cs, certain methods to interaction with current browsers as: Opening Pag
 
 These methods are derive from Selenium Framework and uses functionalities of them.
 
-In Actions.cs, there are several methods which include specifical activities of given assessment as: Getting Current Balance, Setting Current Balance,  Setting Test Data, Getting the All Numbers which are show in page after spinning.
+In Actions.cs, there are several methods which include specifical activities of given assessment as: 
+Getting Current Balance, Setting Current Balance,  Setting Test Data, Getting the All Numbers which are show in page after spinning.
 
 
 #### 3) Features
