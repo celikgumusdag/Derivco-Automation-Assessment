@@ -1,0 +1,8 @@
+#Force to ignore check-in
+
+packages/*
+Derivco-Automation-Assessment/obj/*
+Derivco-Automation-Assessment/bin/*
+
+#Force to perform check-in
+!.nuget/NuGet.exe
