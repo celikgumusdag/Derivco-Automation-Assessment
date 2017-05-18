@@ -39,7 +39,7 @@ Also browser type is generic which can change from App.config file with "browser
 For example, CI Tool (such as Jenkins) can change this attribute as value="firefox" and create parallel executions with different browsers: 
 ```
 <!-- Choose Expected Browser -->
-    <add key="browser" value="chrome" />
+<add key="browser" value="chrome" />
 ```
 
 #### 2) Helpers
