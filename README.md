@@ -8,9 +8,13 @@ Usage
 ------------
 For compile this example you need to use Visual Studio 2012 or more. (Which is support .Net Framework version 4.5)
 
-For running the test cases you need to add "NUnit Test Adapter" from the menu Tools -> Extensions and Updates.
+You can open project by double click solution file (Derivco-Automation-Assessment.sln) or Visual Studio -> File -> Open -> Project/Solution
+
+For running the test cases you need to add "NUnit Test Adapter" extension from the menu Tools -> Extensions and Updates.
 
 After the download this extension you can see Test Cases from the menu Test -> Windows -> Test Explorer
+
+
 
 Example view of Test Explorer:
 
