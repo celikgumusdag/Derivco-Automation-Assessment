@@ -37,7 +37,7 @@ This settings are Browser type and options about the browser.
 Also browser type is generic which can change from App.config file with "browser" attribute.
 
 For example, CI Tool (such as Jenkins) can change this attribute as value="firefox" and create parallel executions with different browsers: 
-```
+```xml
 <!-- Choose Expected Browser -->
 <add key="browser" value="chrome" />
 ```
