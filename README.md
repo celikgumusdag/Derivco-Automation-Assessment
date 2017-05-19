@@ -107,12 +107,19 @@ In this project there are only use 3 packages: Selenium, Specflow,NUnit
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
-  <package id="NUnit" version="3.6.1" targetFramework="net45" />
   <package id="Selenium.WebDriver" version="3.4.0" targetFramework="net45" />
   <package id="SpecFlow" version="2.1.0" targetFramework="net45" />
+  <package id="NUnit" version="3.6.1" targetFramework="net45" />
 </packages>
 ```
+##### Selenium
+Selenium is a set of different software tools each with a different approach to supporting browser automation. These tools are highly flexible, allowing many options for locating and manipulating elements within a browser, and one of its key features is the support for automating multiple browser platforms. This package contains the .NET bindings for the newer, more concise and object-based Selenium WebDriver API, which uses native OS-level events to manipulate the browser, bypassing the JavaScript sandbox, and does not require the Selenium Server to automate the browser.
 
+##### Specflow
+SpecFlow aims at bridging the communication gap between domain experts and developers by binding business readable behavior specifications to the underlying implementation. Specflow mission is to provide a pragmatic and frictionless approach to Acceptance Test Driven Development and Behavior Driven Development for .NET projects today.
+
+##### NUnit
+NUnit is an evolving, open source framework designed for writing and running tests in Microsoft .NET programming languages. NUnit, like JUnit, is an aspect of test-driven development (TDD), which is part of a larger software design paradigm known as Extreme Programming (XP). NUnit features a fluent assert syntax, parameterized, generic and theory tests and is user-extensible.
 
 About
 ------------
