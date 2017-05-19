@@ -98,6 +98,10 @@ Executing file(assessment itself): TestTask.html file
 NuGet Packages
 ------------
 
+What is NuGet?
+
+NuGet is the package manager for the Microsoft development platform including .NET. The NuGet client tools provide the ability to produce and consume packages. The NuGet Gallery is the central package repository used by all package authors and consumers.
+
 In this project there are only use 3 packages: Selenium, Specflow,NUnit
 
 ```xml
