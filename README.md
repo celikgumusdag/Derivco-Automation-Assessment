@@ -139,7 +139,9 @@ Derivco is an IT company that provides gaming and software development services.
 
 Currently it is an international company which has offices all around the world such as Australia, England, Estonia, Hong Kong, Isle of Man, South Africa, Sweden
 
-You can find more information in this offical webpage: https://www.derivco.com or linkedin page : https://www.linkedin.com/company/derivco
+You can find more information in this offical webpage: https://www.derivco.com 
+
+Linkedin page : https://www.linkedin.com/company/derivco
 
 
 License
